@@ -1,0 +1,29 @@
+body{
+	background: orange;
+}
+div{
+	text-align: center;
+	margin: 2% 40% 28% 40%
+}
+h1 {
+	font-size: 60px;
+}
+p , h1{
+	text-align: center;
+	font-weight: bold;
+}
+.winner{ /* I add this class by DOM (classList.add()  )*/
+	color: white;
+}
+h2{
+	text-align: center;
+	font-size: 50px;
+	margin-top: 10% 20% 15% 20%;
+	color: white;
+}
+h3{
+	text-align: center;
+}
+h5{
+	color: white;
+}
